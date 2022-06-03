@@ -1,4 +1,16 @@
-html, body {
-  height: 100%;
-  width: 100%;
+.container{
+  max-width:960px;
+  margin: 0 auto;
+  background: black;
+  font-size: 24px;
+  padding: 25px;
+}
+.container p,h1{
+  color:white;
+}
+.paraone{
+  background : url('sea.jpg') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
 }
