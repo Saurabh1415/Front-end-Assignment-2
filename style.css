@@ -3,33 +3,33 @@
   width:100%;
 }
 .container p,h1{
-  color:black;
+  color:#FFFFFF;
   text-align: center;
 }
 .index{
-  background: url('pic1.jpg');
+  background: url('Images/Car.jpg');
   background-attachment: fixed;
   height:500px;
   background-size: cover;
-  opacity:0.8;
+  opacity:0.9;
 }
 .index1{
-  background: url('cat.jpg');
+  background: url('Images/ship.jpg');
   background-attachment: fixed;
   height:500px;
   background-size: cover;
-  opacity:0.8;
+  opacity:0.9;
 }
 .index2{
-  background: url('sea.jpg');
+  background: url('Images/Buld.jpg');
   background-attachment: fixed;
   height:500px;
   background-size: cover;
-  opacity:0.8;
+  opacity:0.9;
   
 }
 .para{
-  background-color:white;
+  background-color:#2E4053;
   padding: 2%;
 }
 .head{
@@ -38,9 +38,10 @@
   
 }
 .head h1{
-  background-color: white;
+  background-color: #2E4053;
   margin-left:40%
 }
 body{
-  width:99%
+  width:99%;
+  background-color:#273746;
 }
